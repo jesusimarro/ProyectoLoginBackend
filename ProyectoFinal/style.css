@@ -1,0 +1,41 @@
+body {
+    margin: 20px;
+}
+
+label {
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    max-width: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.principal {
+    margin-top: 20px;
+}
+
+.alert-success {
+    margin-top: 40px;
+}
+
+.nav-link {
+    justify-content: center;
+    text-align: center;
+}
+
+.thead-dark, td {
+    text-align: center;
+    justify-content: center;
+}
+
+.enlace-volver {
+    margin-left: 20px;
+}
